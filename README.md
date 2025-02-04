@@ -1,4 +1,4 @@
 # repo1
 This is for Practical Purpose
-<hr>
+<br>
 Author Name - Vishal Yadav
